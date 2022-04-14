@@ -1,19 +1,17 @@
 <html>
   <h1>
     Worm Lust:  It's not rocket science
+    <p>
+      It's worm lust
+    </p>
   </h1>
-  <h2>
-    it's worm lust
-  </h2>
   <body>
 
-<audio controls loop>
-  <source src="ahumorousclockFULL.wav" type="audio/wav" />
-</audio>
+    Now the worms have wants and desires like any human. That's ok I guess. But like, maybe they need to chill out amiright haha yeah.
 
   </body>
 
 <p>
-<img src="sicilianflag.png" alt="The Sicilian Flag!">
+<img src="wormsrus.jpg" alt="THE WORMS!!! IN MY EYES!!!">
 </p>
 </html>
