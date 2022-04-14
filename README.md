@@ -1,6 +1,6 @@
 <html>
   <h1>
-    Worm Lust:  It's not rocket science
+    Worm Lust:  It's not rocket science (readme)
     <p>
       It's worm lust
     </p>
